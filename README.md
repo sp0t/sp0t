@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm David Gavilanez</h1>
+<h1 align="center">Hi 👋, How are you.</h1>
 
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -7,7 +7,7 @@
 </p>
 
 - 🔭 I’m currently working on **The Mad Fox**
-- 🌱 I’m currently learning **Redux Toolkit, Python, AWS, Micro-Frontends**
+- 🌱 I’m currently mastered **Redux Toolkit, Python, AWS, Micro-Frontends**
 - 👨‍💻 All of my projects are available at [Personal Site](https://davicho.dev)
 - 📝 I regularly write articles on [Blog](https://davicho.dev/blog)
 - 💬 Ask me about **React, NextJs, Cypress, Flutter, TailwindCSS, Storybook, GSAP**
