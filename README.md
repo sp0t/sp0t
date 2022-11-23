@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, How are you.</h1>
+<h1 align="center">Hi 👋, Nice to meet you.</h1>
 
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
