@@ -11,8 +11,8 @@
 - 👨‍💻 All of my projects are available at [Personal Site](https://davicho.dev)
 - 📝 I regularly write articles on [Blog](https://davicho.dev/blog)
 - 💬 Ask me about **React, NextJs, Cypress, Flutter, TailwindCSS, Storybook, GSAP**
-- 📫 How to reach me **developer@davicho.dev**
-- 📄 Know about my experiences [Resume](https://davicho.dev/resume.pdf)
+- 📫 How to reach me **developer*
+- 📄 Know about my experiences [Resume](https://)
 - ⚡ Fun fact **I’m quite obsessive about keeping my code clean and well organized.**
 
 <p>
@@ -32,31 +32,31 @@
 
 <h3>Connect with me:</h3>
 <article>
-    <a href="https://dev.to/davichodev" target="blank">
+    <a href="https://" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="davichodev" height="30" width="40" />
     </a>
-    <a href="https://twitter.com/DavichoDev" target="blank">
+    <a href="https://" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="DavichoDev" height="30" width="40" />
     </a>
-    <a href="https://linkedin.com/in/davichodev" target="blank">
+    <a href="https://v" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davichodev" height="30" width="40" />
     </a>
-    <a href="https://stackoverflow.com/users/11783373" target="blank">
+    <a href="https://" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11783373" height="30" width="40" />
     </a>
-    <a href="https://instagram.com/davichodev" target="blank">
+    <a href="https://" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davichodev" height="30" width="40" />
     </a>
-    <a href="https://medium.com/@davichodev" target="blank">
+    <a href="https://" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@davichodev" height="30" width="40" />
     </a>
-    <a href="https://hackerrank.com/DavichoDev" target="blank">
+    <a href="https://" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="DavichoDev" height="30" width="40" />
     </a>
-    <a href="https://discord.gg/DavichoDev#1908" target="blank">
+    <a href="https://" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DavichoDev#1908" height="30" width="40" />
     </a>
-    <a href="https://davicho.dev/blog" target="blank">
+    <a href="https://" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="davicho.dev/blog" height="30" width="40" />
     </a>
 </article>
