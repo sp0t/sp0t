@@ -15,18 +15,6 @@
 - 📄 Know about my experiences [Resume](https://)
 - ⚡ Fun fact **I’m quite obsessive about keeping my code clean and well organized.**
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=davicho-dev&show_icons=true&theme=dark&title_color=b4b4b4&text_color=b4b4b4&hide_border=true&locale=en" alt="davicho-dev" />
-</p>
-
-[//]: # '<p>'
-
-[//]: # '    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davicho-dev&theme=dark" alt="davicho-dev" />'
-
-[//]: # '</p>'
-
-[//]: # '### Blogs posts'
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -196,11 +184,3 @@
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
     </a>
 </article>
-
-<!-- <p>
-    <a href="https://twitter.com/DavichoDev" target="blank">
-        <img src="https://img.shields.io/twitter/follow/DavichoDev?logo=twitter&style=for-the-badge" alt="DavichoDev" />
-    </a>
-</p> -->
-
-<!-- [//]: # '<p align="left"><img src="https://komarev.com/ghpvc/?username=DavichoDev&label=Profile%20views&color=0e75b6&style=flat" alt="DavichoDev" /></p>' -->
